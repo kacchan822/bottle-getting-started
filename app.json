@@ -1,0 +1,6 @@
+{
+  "name": "Bottle getting started",
+  "description": "Template for Bottle project",
+  "repository": "https://github.com/kacchan822/bottle-getting-started",
+  "keywords": ["python", "bottle"]
+}
